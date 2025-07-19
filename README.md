@@ -1,4 +1,4 @@
-# Hi, I'm Krishwalli 👋
+# Hi, I'm Krishwall 👋
 
 Student & Data Science Enthusiast | Machine Learning Developer
 
