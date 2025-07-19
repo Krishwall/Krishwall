@@ -1,4 +1,4 @@
-# Student Profile: Standout Edition
+
 
 ## About Me
 Aspiring data scientist and machine learning enthusiast. I blend technical skill with creativity to build intelligent solutions.
