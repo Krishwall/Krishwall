@@ -1,16 +1,22 @@
-## Hi there 👋
+# Student Profile: Standout Edition
 
-<!--
-**Krishwall/Krishwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring data scientist and machine learning enthusiast. I blend technical skill with creativity to build intelligent solutions.
 
-Here are some ideas to get you started:
+## Key Skills
+- **Programming:** Expert in C++ and Python
+- **Data Science:** Well-versed in data analysis, visualization, and modeling
+- **Machine Learning:** Currently pursuing advanced ML & AI coursework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Book Recommender (LLM-based):**  
+  Developed a minimalist, intelligent book recommendation system leveraging large language models.
+
+## What Sets Me Apart
+- Minimalist approach: clarity, simplicity, and impact
+- Passion for bridging theory and practical applications
+- Eager to innovate and solve real-world problems
+
+---
+
+> “In a world full of noise, I believe in making sense with code.”
