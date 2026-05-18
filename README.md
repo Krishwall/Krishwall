@@ -1,38 +1,94 @@
-# Hi, I'm Krish 👋
+# 👋 Hi there, I’m **Krish Jaiswal**!
 
-Student & Data Science Enthusiast | Machine Learning Developer
+🧠 **Data Scientist & AI Engineer** focused on **Machine Learning**, **Deep Learning**, and **Agentic AI Systems** — I build end-to-end AI platforms, high-accuracy predictive models, and production-ready applications that solve real-world problems.
 
-## About Me
+---
 
-I'm a student passionate about exploring the intersection of data science and artificial intelligence. Currently advancing my knowledge in machine learning and AI development.
+## 🚀 About Me
+- 🧩 **AI Architect / Builder:** Co-Founder at **Plexus** — I work across **frontend**, **backend APIs**, and **AI orchestration** (including multi-agent system design).
+- 📈 **Algorithm Enthusiast:** Solved **450+** DSA problems across **LeetCode**, **Coding Ninjas**, and **GeeksforGeeks**.
+- 🏗️ Builder Mindset: I enjoy turning research into real products — from modeling + evaluation to APIs, orchestration, and deployment
 
-## Skills
+---
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-232F3E?style=flat-square&logo=pandas&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+## 🧰 Tech Stack
 
-## Projects
+### 💻 Programming
+- 🐍 `Python` | 🟦 `TypeScript` | 🟨 `JavaScript` | 🗃️ `SQL` | ☕ `Java` | ⚙️ `C++`
 
-### 📚 Book Recommender System
-A recommendation system built using Large Language Models to suggest personalized book recommendations based on user preferences and reading history.
+### 🤖 AI / LLMs / Agentic Systems
+- 🔗 `LangChain`
+- 🧠 `Agentic AI Systems`
+- 🧩 `Model Context Protocol (MCP)`
+- ✍️ `Prompt Engineering`
+- 🧬 `LLM Integration`
 
-### 🤖 Other Projects
-- Machine learning algorithms implementation
-- Data visualization dashboards
-- Predictive modeling applications
+### 🧠 ML / Deep Learning
+- 🔥 `PyTorch (ClinicalBERT)` | 🧱 `TensorFlow` | 🧪 `Keras`
+- 🧵 `RNN-LSTM` | 🧿 `CNN`
+- 📊 `Model Evaluation`
 
-## Currently Learning
+### 🖼️ Computer Vision & Data Science
+- 🌄 `SRGAN` | 🔍 `Grad-CAM` | 🧫 `Image Processing`
+- ⏳ `Time Series Analysis`
+- 🧠 `Feature Engineering` | 🎯 `Predictive Modeling`
 
-- Advanced Machine Learning techniques
-- Deep Learning architectures
-- LLM fine-tuning and deployment strategies
+### 🗄️ Infra / Tools
+- 🐘 `PostgreSQL` | 🔧 `REST APIs` | 🔥 `Firebase`
+- 🧰 `Git` | 🐙 `GitHub` | 📓 `Jupyter Notebook`
 
-## Connect With Me
+---
 
-Let's connect and collaborate on exciting projects in AI and data science!
+## ⚡ Current Focus
+- 🩺 **Autonomous Simulations:** Building multi-agent simulations at Plexus for adaptive patient behavior + clinical case progression.
+- 🧭 **Diagnostic Logic:** Designing AI-driven evaluation engines to assess clinical reasoning pathways.
+- 🧩 **MCP + Production Agents:** Exploring advanced MCP integrations to extend LLM-driven agent capabilities.
 
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishjaiswal523@gmail.com)
+## 🏆 Featured Projects
+
+### 🔬 Multimodal Clinical Diagnosis
+- 🧠 Built a multimodal diagnosis system using **ResNet18 + ClinicalBERT** to fuse **chest X-rays** with **radiology text**.
+- ✅ Achieved **64.5% validation accuracy** and **~80% top-2 recall**.
+- 🫀 Improved cardiomegaly detection accuracy **(~23% → ~49%)** using targeted CNN fine-tuning.
+- 🧾 Added interpretability with **Grad-CAM** + token-level saliency maps; deployed via **Streamlit**.
+
+**Tech:** `PyTorch` · `ClinicalBERT` · `ResNet18` · `Grad-CAM` · `Streamlit`
+
+---
+
+### ☀️ Sunspot Prediction Model
+- ⏳ Developed an **RNN-LSTM** time-series model to predict **mean sunspot numbers**.
+- 📉 Achieved **mean error: 13.12** after processing multi-year solar activity datasets.
+
+**Tech:** `TensorFlow/Keras` · `RNN-LSTM` · `Time Series`
+
+---
+
+### 🛰️ Satellite Image Super-Resolution
+- 🌄 Implemented **SRGAN** to enhance low-resolution satellite imagery for better spatial analysis.
+- 📈 Reached **27.3 PSNR** and **0.87 SSIM** with optimized processing.
+
+**Tech:** `SRGAN` · `Computer Vision` · `Image Processing`
+
+---
+
+## 📌 Highlights
+- ✅ End-to-end AI systems (data → modeling → deployment)
+- ✅ Interpretability & explainability (Grad-CAM, saliency)
+- ✅ Agentic / orchestration workflows (multi-agent design)
+- ✅ Production mindset (APIs, tooling, deployments)
+
+---
+
+## 🤝 Let’s Connect
+- 📧 **Email:** `krishjaiswal523@gmail.com`
+- 🐙 **GitHub:** https://github.com/Krishwall
+
+---
+
+## 🧭 What I’m Open To
+- 💼 AI Engineer / Data Scientist roles
+- 🤝 Research + applied ML collaborations
+- 🧪 Building agentic AI products & platforms
